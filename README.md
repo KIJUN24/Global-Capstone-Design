@@ -1,9 +1,9 @@
 # Global-Capstone-Design : Autonomous Driving Using Image Processing
 2025 글로벌 캡스톤 디자인 - Sunmoon Univ., Silesian University of Technology
 
-- Mission1 영상 : https://youtu.be/jlQD97qYKro
-- Mission2 영상 : https://youtube.com/shorts/233lKiTJyHo?feature=share
-- Mission3 영상 : https://youtube.com/shorts/RBubztdhr-E?feature=share
+- Mission1 영상  : https://youtu.be/jlQD97qYKro
+- Mission2 영상  : https://youtube.com/shorts/233lKiTJyHo?feature=share
+- Mission3 영상  : https://youtube.com/shorts/RBubztdhr-E?feature=share
 - PID Graph 영상 : https://youtube.com/shorts/cgcCyLZQG8k?feature=share
 
 ## Project Scenario
