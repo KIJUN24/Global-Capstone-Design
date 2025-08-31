@@ -27,7 +27,7 @@ Camera와 LiDAR를 사용한 자율주행 알고리즘 제작.
 |:---:|:---:|
 | 기존 차량 | 라이다 사용을 위해 설계 수정 |
 
-| ![기존 차량](https://github.com/KIJUN24/Global-Capstone-Design/blob/master/Pictures%20of%20Project/%EA%B8%B0%EC%A1%B4%20%EC%B0%A8%EB%9F%89%20%EC%84%A4%EA%B3%84.png) | ![State Diagram](https://github.com/addinedu-roscamp-6th/roscamp-repo-3/blob/main/Pictures%20of%20Project/State%20Diagram.png) |
+| ![기존 차량](https://github.com/KIJUN24/Global-Capstone-Design/blob/master/Pictures%20of%20Project/%EA%B8%B0%EC%A1%B4%20%EC%B0%A8%EB%9F%89%20%EC%84%A4%EA%B3%84.png) | ![PID 앞 차량](https://github.com/KIJUN24/Global-Capstone-Design/blob/master/Pictures%20of%20Project/PID%20%EC%95%9E%20%EC%B0%A8%EB%9F%89%20%EC%84%A4%EA%B3%84.png) |
 |:---:|:---:|
 | 기존 차량 | 뒤에서 라이다를 인식시키기 위해 설계 수정 |
 
