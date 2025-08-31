@@ -4,6 +4,7 @@
 - Mission1 영상 : https://youtu.be/jlQD97qYKro
 - Mission2 영상 : https://youtube.com/shorts/233lKiTJyHo?feature=share
 - Mission3 영상 : https://youtube.com/shorts/RBubztdhr-E?feature=share
+- PID Graph 영상 : https://youtube.com/shorts/cgcCyLZQG8k?feature=share
 
 ## Project Scenario
 Camera와 LiDAR를 사용한 자율주행 알고리즘 제작.
