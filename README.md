@@ -1,6 +1,8 @@
 # Global-Capstone-Design : Autonomous Driving Using Image Processing
 2025 글로벌 캡스톤 디자인 - Sunmoon Univ., Silesian University of Technology
 
+- Mission1 영상 : https://youtu.be/jlQD97qYKro
+
 ## Project Scenario
 Camera와 LiDAR를 사용한 자율주행 알고리즘 제작.
 1. Camera, LiDAR를 사용한 자율주행 - 라인주행, 신호등 감지, 장애물 감지 시 정지
